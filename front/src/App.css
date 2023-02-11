@@ -1,0 +1,15 @@
+.cardheader {
+  border-bottom: 2px solid grey;
+}
+.cardheader .containerheader {
+  display: flex;
+  margin: 40px;
+}
+.cardheader .containerheader .add-search-buttons {
+  margin-left: auto ;
+}
+.cardheader .containerheader .add-search-buttons button {
+  margin-left: 10px ;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
